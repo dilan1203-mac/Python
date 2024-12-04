@@ -66,7 +66,7 @@ This project is a demonstration and is not intended for deployment. For deployme
 <br/>
 <hr/>
 
-# Author
+# <u>Author</u>
 <br/>
 GitHub: dilan1203-mac
 <br/>
